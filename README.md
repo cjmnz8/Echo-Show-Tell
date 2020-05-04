@@ -33,3 +33,4 @@ The node.js file details the following:
 ### Documentation
 * [Official Alexa Skills Kit SDK for Node.js](http://alexa.design/node-sdk-docs) - The Official Node.js SDK Documentation
 * [Official Alexa Skills Kit Documentation](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html) - Official Alexa Skills Kit Documentation
+* [LibAnswers API Overview] (https://ask.springshare.com/libanswers/faq/1669) - Springshare's "Getting Started" FAQ on the LibAnswers API
